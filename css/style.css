@@ -3,9 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    overflow: hidden;
-}
+
  .container{
     width: 90%;
     padding: 25px 5px;
@@ -227,7 +225,7 @@ background-image: url(images/team-shape.svg);
     flex-wrap: wrap;
     gap: 20px;
     flex-direction: column;
-    height: 837px;
+    height: 1053px;
 
 
 }
